@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'figaro'
+gem 'geocoder'
 gem 'bootstrap-sass', '~> 3.1.1'
 
 gem 'simple_form'
