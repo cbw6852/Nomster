@@ -3,12 +3,10 @@ source 'https://rubygems.org'
 gem 'figaro'
 gem 'geocoder'
 gem 'bootstrap-sass', '~> 3.1.1'
-
 gem 'simple_form'
-
 gem 'devise'
-
 gem 'will_paginate', '~> 3.0.5'
+gem 'carrierwave'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
